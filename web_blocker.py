@@ -1,7 +1,7 @@
 import time
 from datetime import datetime as dt
-hosts_temp = "C:\python3\learn\settingup\web_blocker\hosts"
-hosts_path = "c:\Windows\System32\drivers\etc\hosts"
+hosts_temp = "C:\python3\learn\settingup\web_blocker\hosts" #this is the path of the host file which is stored locally for the testing purpose
+hosts_path = "c:\Windows\System32\drivers\etc\hosts" # this is original hosts file
 redirect = "127.0.0.1"
 
 website_list = ["www.facebook.com","facebook.com","www.linkedin.com/feed/","linkedin.com/feed/"]
